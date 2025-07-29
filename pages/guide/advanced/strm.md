@@ -50,6 +50,7 @@ Strm uses a local proxy method, and during the **`Download Preview (Read-Only)`*
   `http://localhost:5244/Video/%E7%94%B5%E5%BD%B1/%E5%86%8D%E8%A7%81%EF%BC%8C%E6%9D%8E%E5%8F%AF%E4%B9%90%20(2023)/%E5%86%8D%E8%A7%81%EF%BC%8C%E6%9D%8E%E5%8F%AF%E4%B9%90%20(2023)%20-%202160p.mkv`
 
 - **Local Model:** The generated strm file after opening will not contain URL prefixes
+
 :::
 
 ::: zh-CN
@@ -105,4 +106,5 @@ Strm采用本地代理方式，在 **`下载预览（只读）`** 操作时会�
   启用时`http://localhost:5244/Video/%E7%94%B5%E5%BD%B1/%E5%86%8D%E8%A7%81%EF%BC%8C%E6%9D%8E%E5%8F%AF%E4%B9%90%20(2023)/%E5%86%8D%E8%A7%81%EF%BC%8C%E6%9D%8E%E5%8F%AF%E4%B9%90%20(2023)%20-%202160p.mkv`
 
 - **本地模式**：开启后生成的strm文件将不包含URL前缀
+
 :::
